@@ -13594,6 +13594,27 @@ module.exports = [
     ],
   },
   {
+    name: 'Alula Kibrom',
+    description:
+      'Full stack developer, entrepreneur and maker.',
+    url: 'https://businesstyc.com/uses',
+    country: 'ET',
+    computer: 'Lenovo',
+    phone: 'Redmi',
+    tags: [
+      'Developer',
+      'Full Stack',
+      'maker'
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'Java',
+      'php',
+      'vue',
+      'Angular',
+    ],
+  },
+  {
     name: 'Matt Walsh',
     description: 'Python programmer with love for data and automation',
     url: 'https://mattwalsh.dev/uses/',
